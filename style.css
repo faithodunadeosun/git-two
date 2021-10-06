@@ -2,5 +2,10 @@
       background-color: blueviolet;
       height:auto;
       width: auto;
-    
+  
+  }
+  # video{
+    background-color: rgb(119, 93, 119);
+    width:auto;
+    height: 300px;
   }
